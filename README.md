@@ -11,7 +11,8 @@ When Do Pre-Training Biases Propagate to Downstream Tasks? A Case Study in Text 
 -Objective
 
 To study if LLMs like BART and PEGASUS introduce biased or hallucinated nationality information in generated summaries when names are changed.-
-🧠 Methodology
+
+ -Methodology
 Step	Description
 Dataset	Synthetic balanced data with multiple nationalities
 Models	BART (abstractive) & PEGASUS (extractive)
